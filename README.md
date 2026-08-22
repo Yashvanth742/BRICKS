@@ -41,31 +41,7 @@
 
 ---
 
-## 💻 Quick Start & Running Locally
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/Yashvanth742/BRICKS.git
-   cd BRICKS
-   ```
-
-2. **Install dependencies**:
-   ```bash
-   npm install
-   ```
-
-3. **Start the local dev server**:
-   ```bash
-   npm run dev
-   ```
-   Open [http://localhost:3000](http://localhost:3000) in your browser.
-
-4. **Build for Production**:
-   ```bash
-   npm run build
-   ```
-
----
+Link - https://bricks-gilt.vercel.app/
 
 ## 🏆 BRICS Hackathon Alignment
 
